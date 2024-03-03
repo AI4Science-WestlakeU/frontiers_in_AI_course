@@ -8,11 +8,11 @@
 
 2. Install dependencies.
 
-Install [PyTorch](https://pytorch.org/)
+* Install [PyTorch](https://pytorch.org/)
 
-Install Jupyter Lab by running `pip install jupyterlab`.
+* Install Jupyter Lab by running `pip install jupyterlab`.
 
 
 # Play
 
-Open the notebook under each folder and play! Feel free to modify the datasets, models, training, and evaluation to see how things change.
+To run the notebook, first go to the directory of the local folder, then enter `jupyter lab` in terminal. Then the brower will pop up a local website (typically at `http://localhost:8888/`). You can then open the notebook under each folder and play! Feel free to modify the datasets, models, training, and evaluation to see how things change.
