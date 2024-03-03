@@ -1,6 +1,6 @@
 # Materials for the course "Frontiers in Computer Science and Engineering"
 
-# Installation
+## Installation
 
 1. First clone the directory by running `git clone git@github.com:AI4Science-WestlakeU/frontiers_in_AI_course.git`.
    
@@ -13,6 +13,6 @@
 * Install Jupyter Lab by running `pip install jupyterlab`.
 
 
-# Play
+## Play
 
 To run the notebook, first go to the directory of the local folder, then enter `jupyter lab` in terminal. Then the brower will pop up a local website (typically at `http://localhost:8888/`). You can then open the notebook under each folder and play! Feel free to modify the datasets, models, training, and evaluation to see how things change.
