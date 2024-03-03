@@ -1,4 +1,4 @@
-# Interactive notebooks for course "Frontiers in Computer Science and Engineering"
+# Materials for the course "Frontiers in Computer Science and Engineering"
 
 # Installation
 
